@@ -1,0 +1,123 @@
+2025-03-14 18:53:00,180 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.13:5000
+2025-03-14 18:53:00,181 INFO: [33mPress CTRL+C to quit[0m
+2025-03-14 18:53:00,208 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-14 18:53:00,716 WARNING:  * Debugger is active!
+2025-03-14 18:53:00,722 INFO:  * Debugger PIN: 736-847-056
+2025-03-14 20:14:32,294 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.13:5000
+2025-03-14 20:14:32,296 INFO: [33mPress CTRL+C to quit[0m
+2025-03-14 20:14:32,320 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-14 20:14:32,984 WARNING:  * Debugger is active!
+2025-03-14 20:14:32,991 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 12:39:37,892 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-03-18 12:39:37,893 INFO: [33mPress CTRL+C to quit[0m
+2025-03-18 12:39:37,918 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 12:39:38,333 WARNING:  * Debugger is active!
+2025-03-18 12:39:38,338 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 12:41:24,046 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.102:5000
+2025-03-18 12:41:24,046 INFO: [33mPress CTRL+C to quit[0m
+2025-03-18 12:41:24,059 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 12:41:24,363 WARNING:  * Debugger is active!
+2025-03-18 12:41:24,366 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 13:04:05,465 INFO: 127.0.0.1 - - [18/Mar/2025 13:04:05] "[31m[1mPOST /send-emails HTTP/1.1[0m" 400 -
+2025-03-18 13:04:15,532 INFO: 127.0.0.1 - - [18/Mar/2025 13:04:15] "[31m[1mPOST /send-emails HTTP/1.1[0m" 400 -
+2025-03-18 13:43:03,305 INFO: 127.0.0.1 - - [18/Mar/2025 13:43:03] "[31m[1mPOST /send-emails HTTP/1.1[0m" 400 -
+2025-03-18 13:48:01,948 INFO: 127.0.0.1 - - [18/Mar/2025 13:48:01] "[31m[1mPOST /send-emails HTTP/1.1[0m" 400 -
+2025-03-18 13:50:20,928 ERROR: Failed to authenticate with Gmail. Check credentials.
+2025-03-18 13:50:20,935 INFO: 127.0.0.1 - - [18/Mar/2025 13:50:20] "[31m[1mPOST /send-emails HTTP/1.1[0m" 401 -
+2025-03-18 13:50:39,956 ERROR: Failed to authenticate with Gmail. Check credentials.
+2025-03-18 13:50:39,959 INFO: 127.0.0.1 - - [18/Mar/2025 13:50:39] "[31m[1mPOST /send-emails HTTP/1.1[0m" 401 -
+2025-03-18 13:54:50,923 INFO:  * Detected change in 'C:\\projects\\ColdEmailAutomation\\Backend\\app.py', reloading
+2025-03-18 13:54:50,933 INFO:  * Detected change in 'C:\\projects\\ColdEmailAutomation\\Backend\\app.py', reloading
+2025-03-18 13:54:51,685 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 13:54:52,089 WARNING:  * Debugger is active!
+2025-03-18 13:54:52,093 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 13:55:09,885 INFO:  * Detected change in 'C:\\projects\\ColdEmailAutomation\\Backend\\app.py', reloading
+2025-03-18 13:55:09,886 INFO:  * Detected change in 'C:\\projects\\ColdEmailAutomation\\Backend\\app.py', reloading
+2025-03-18 13:55:10,254 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 13:55:10,645 WARNING:  * Debugger is active!
+2025-03-18 13:55:10,650 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 13:56:08,983 ERROR: Gmail authentication failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-7371167e129sm9188234b3a.108 - gsmtp')
+2025-03-18 13:56:09,300 INFO: 127.0.0.1 - - [18/Mar/2025 13:56:09] "[31m[1mPOST /send-emails HTTP/1.1[0m" 401 -
+2025-03-18 19:12:59,945 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.29.13:5000
+2025-03-18 19:12:59,945 INFO: [33mPress CTRL+C to quit[0m
+2025-03-18 19:12:59,957 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 19:13:00,200 WARNING:  * Debugger is active!
+2025-03-18 19:13:00,204 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 19:14:02,550 INFO: Sent to Mummy (btech15117.22@bitmesra.ac.in)
+2025-03-18 19:14:11,496 INFO: Sent to Priyanshu Shankar (22f3000835@ds.study.iitm.ac.in)
+2025-03-18 19:14:21,148 INFO: Sent to Priyanshu Shankar (prishushankar@gmail.com)
+2025-03-18 19:14:22,390 INFO: 127.0.0.1 - - [18/Mar/2025 19:14:22] "POST /send-emails HTTP/1.1" 200 -
+2025-03-18 19:19:21,884 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\__init__.py', reloading
+2025-03-18 19:19:21,888 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_eventloop.py', reloading
+2025-03-18 19:19:21,895 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_exceptions.py', reloading
+2025-03-18 19:19:21,897 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_fileio.py', reloading
+2025-03-18 19:19:21,907 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\to_thread.py', reloading
+2025-03-18 19:19:21,908 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\__init__.py', reloading
+2025-03-18 19:19:21,911 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_eventloop.py', reloading
+2025-03-18 19:19:21,915 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_resources.py', reloading
+2025-03-18 19:19:21,917 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_sockets.py', reloading
+2025-03-18 19:19:21,921 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_typedattr.py', reloading
+2025-03-18 19:19:21,923 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_streams.py', reloading
+2025-03-18 19:19:21,926 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_tasks.py', reloading
+2025-03-18 19:19:21,928 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_subprocesses.py', reloading
+2025-03-18 19:19:21,931 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\abc\\_testing.py', reloading
+2025-03-18 19:19:21,932 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_synchronization.py', reloading
+2025-03-18 19:19:21,941 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\lowlevel.py', reloading
+2025-03-18 19:19:21,945 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_tasks.py', reloading
+2025-03-18 19:19:21,947 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_testing.py', reloading
+2025-03-18 19:19:21,953 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\from_thread.py', reloading
+2025-03-18 19:19:21,968 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_resources.py', reloading
+2025-03-18 19:19:21,969 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_signals.py', reloading
+2025-03-18 19:19:21,972 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_sockets.py', reloading
+2025-03-18 19:19:21,991 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\streams\\stapled.py', reloading
+2025-03-18 19:19:21,995 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\streams\\tls.py', reloading
+2025-03-18 19:19:22,002 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_streams.py', reloading
+2025-03-18 19:19:22,004 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\streams\\memory.py', reloading
+2025-03-18 19:19:22,010 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\_core\\_subprocesses.py', reloading
+2025-03-18 19:19:22,014 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\anyio\\pytest_plugin.py', reloading
+2025-03-18 19:19:22,190 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 19:19:22,476 WARNING:  * Debugger is active!
+2025-03-18 19:19:22,480 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 19:19:22,553 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\__init__.py', reloading
+2025-03-18 19:19:22,560 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\app.py', reloading
+2025-03-18 19:19:22,596 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\sansio\\app.py', reloading
+2025-03-18 19:19:22,610 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\sansio\\scaffold.py', reloading
+2025-03-18 19:19:22,627 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\globals.py', reloading
+2025-03-18 19:19:22,630 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2025-03-18 19:19:22,631 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2025-03-18 19:19:22,632 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+2025-03-18 19:19:22,639 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+2025-03-18 19:19:22,652 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2025-03-18 19:19:22,654 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2025-03-18 19:19:22,661 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2025-03-18 19:19:23,580 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 19:19:23,843 WARNING:  * Debugger is active!
+2025-03-18 19:19:23,847 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 19:19:25,687 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\dotenv\\__init__.py', reloading
+2025-03-18 19:19:25,689 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\site-packages\\dotenv\\main.py', reloading
+2025-03-18 19:19:25,972 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 19:19:26,233 WARNING:  * Debugger is active!
+2025-03-18 19:19:26,236 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 19:37:05,556 INFO:  * Detected change in 'C:\\Users\\Priyanshu Shankar\\AppData\\Roaming\\Python\\Python312\\site-packages\\flask_cors\\extension.py', reloading
+2025-03-18 19:37:06,163 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 19:37:06,435 WARNING:  * Debugger is active!
+2025-03-18 19:37:06,438 INFO:  * Debugger PIN: 736-847-056
+2025-03-18 19:37:08,499 INFO:  * Detected change in 'C:\\Anaconda\\Lib\\smtplib.py', reloading
+2025-03-18 19:37:09,546 INFO:  * Restarting with watchdog (windowsapi)
+2025-03-18 19:37:09,784 WARNING:  * Debugger is active!
+2025-03-18 19:37:09,787 INFO:  * Debugger PIN: 736-847-056
